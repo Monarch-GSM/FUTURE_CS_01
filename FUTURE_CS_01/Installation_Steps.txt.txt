@@ -1,0 +1,7 @@
+1. Installed XAMPP (Apache + MySQL)
+2. Copied DVWA folder to C:\xampp\htdocs\
+3. Edited config.inc.php – set user: root, password: ''
+4. Started Apache & MySQL in XAMPP Control Panel
+5. Opened http://localhost/dvwa/setup.php
+6. Clicked 'Create / Reset Database'
+7. Logged in (admin // password)
